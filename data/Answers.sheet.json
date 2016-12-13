@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "answer": "Boeing 777X"
+  },
+  {
+    "id": 1,
+    "answer": "Mitsubishi MRJ90",
+    "correct": "x"
+  },
+  {
+    "id": 1,
+    "answer": "Bombardier C Series 100"
+  },
+  {
+    "id": 1,
+    "answer": "Spike 18-passenger supersonic jet"
+  },
+  {
+    "id": 2,
+    "answer": 1986
+  },
+  {
+    "id": 2,
+    "answer": 1999,
+    "correct": "x"
+  },
+  {
+    "id": 2,
+    "answer": 2007
+  },
+  {
+    "id": 3,
+    "answer": "Impinj"
+  },
+  {
+    "id": 3,
+    "answer": "Fortive"
+  },
+  {
+    "id": 3,
+    "answer": "Aptevo"
+  },
+  {
+    "id": 3,
+    "answer": "Approvio",
+    "correct": "x"
+  },
+  {
+    "id": 3,
+    "answer": "Apptio",
+    "correct": "\n"
+  },
+  {
+    "id": 4,
+    "answer": "Highest in the nation"
+  },
+  {
+    "id": 4,
+    "answer": "Nearly half again as high as next-ranked Los Angeles"
+  },
+  {
+    "id": 4,
+    "answer": "More than New York and San Francisco combined"
+  },
+  {
+    "id": 4,
+    "answer": "All three",
+    "correct": "x"
+  },
+  {
+    "id": 5,
+    "answer": "Increased",
+    "correct": "x"
+  },
+  {
+    "id": 5,
+    "answer": "Declined"
+  },
+  {
+    "id": 5,
+    "answer": "Remained flat"
+  },
+  {
+    "id": 6,
+    "answer": "Archie McPhee’s"
+  },
+  {
+    "id": 6,
+    "answer": "Boeing",
+    "correct": "x"
+  },
+  {
+    "id": 6,
+    "answer": "Dick’s Drive-In"
+  },
+  {
+    "id": 6,
+    "answer": "Nordstrom"
+  },
+  {
+    "id": 7,
+    "answer": "Dick Cooley, chairman and CEO of Seafirst Bank"
+  },
+  {
+    "id": 7,
+    "answer": "Dick Spady, founder of Dick’s Drive-In"
+  },
+  {
+    "id": 7,
+    "answer": "Joe Sutter, chief designer of the Boeing 747"
+  },
+  {
+    "id": 7,
+    "answer": "All of the above",
+    "correct": "x"
+  },
+  {
+    "id": 8,
+    "answer": "Adaptive Biotechnologies"
+  },
+  {
+    "id": 8,
+    "answer": "Avalara"
+  },
+  {
+    "id": 8,
+    "answer": "OfferUp",
+    "correct": "x"
+  },
+  {
+    "id": 8,
+    "answer": "Remitly"
+  },
+  {
+    "id": 8,
+    "answer": "Rover"
+  },
+  {
+    "id": 9,
+    "answer": "Costco opened its first store in France"
+  },
+  {
+    "id": 9,
+    "answer": "Amazon started deliveries by drone in Luxembourg"
+  },
+  {
+    "id": 9,
+    "answer": "Starbucks opened inside Buckingham Palace"
+  },
+  {
+    "id": 9,
+    "answer": "None of the above",
+    "correct": "x"
+  },
+  {
+    "id": 10,
+    "answer": "“Blue Screen of Life”"
+  },
+  {
+    "id": 10,
+    "answer": "“Reboot or Go Home”"
+  },
+  {
+    "id": 10,
+    "answer": "“Hit Refresh”",
+    "correct": "x"
+  },
+  {
+    "id": 10,
+    "answer": "“Soft around the Middle”"
+  },
+  {
+    "id": 11,
+    "answer": "8 percent"
+  },
+  {
+    "id": 11,
+    "answer": "10 percent",
+    "correct": "x"
+  },
+  {
+    "id": 11,
+    "answer": "12 percent"
+  },
+  {
+    "id": 11,
+    "answer": "15 percent"
+  },
+  {
+    "id": 12,
+    "answer": "Blucora"
+  },
+  {
+    "id": 12,
+    "answer": "Expedia"
+  },
+  {
+    "id": 12,
+    "answer": "Facebook"
+  },
+  {
+    "id": 12,
+    "answer": "Weyerhaeuser",
+    "correct": "x"
+  },
+  {
+    "id": 13,
+    "answer": "An all-in-one-computer with a touchscreen monitor"
+  },
+  {
+    "id": 13,
+    "answer": "A new Xbox model"
+  },
+  {
+    "id": 13,
+    "answer": "A new Lumia phone",
+    "correct": "x"
+  },
+  {
+    "id": 13,
+    "answer": "A cloud-computing center in the U.K."
+  },
+  {
+    "id": 14,
+    "answer": "Every two weeks"
+  },
+  {
+    "id": 14,
+    "answer": "Every two months"
+  },
+  {
+    "id": 14,
+    "answer": "Actually, they’re only calling in California"
+  },
+  {
+    "id": 14,
+    "answer": "Actually, plans to serve the West Coast were canceled",
+    "correct": "x"
+  },
+  {
+    "id": 15,
+    "answer": "Residency period before non-citizen can buy a home"
+  },
+  {
+    "id": 15,
+    "answer": "A 15 percent home-sale tax on non-Canadian buyers"
+  },
+  {
+    "id": 15,
+    "answer": "A 1 percent tax on homes left empty"
+  },
+  {
+    "id": 15,
+    "answer": "Language test for anyone buying a home"
+  },
+  {
+    "id": 15,
+    "answer": "A and D"
+  },
+  {
+    "id": 15,
+    "answer": "B and C",
+    "correct": "x"
+  }
+]
