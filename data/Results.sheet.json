@@ -1,0 +1,22 @@
+[
+  {
+    "min": 0,
+    "max": 4,
+    "desc": "Are you living under a rock?"
+  },
+  {
+    "min": 5,
+    "max": 8,
+    "desc": "Looks like you’ve been spending too much time waiting in line…"
+  },
+  {
+    "min": 9,
+    "max": 12,
+    "desc": "At least you’re paying attention!"
+  },
+  {
+    "min": 13,
+    "max": 15,
+    "desc": "You must be cashing in on the latest boom."
+  }
+]

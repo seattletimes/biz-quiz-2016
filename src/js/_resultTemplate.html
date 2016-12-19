@@ -8,8 +8,10 @@
 
       <div class="answer-box">
         <div class="description">{{{description}}}</div>
-        <img src="./assets/{{img}}">
-        <div class="caption">{{caption}} ({{photog}}/{{source}})</div>
+        {{#img}}
+          <img src="./assets/{{img}}">
+          <div class="caption">{{caption}} ({{photog}}/{{source}})</div>
+        {{/img}}
       </div>
     </div>
 
