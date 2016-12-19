@@ -26,7 +26,11 @@
         json.Questions.forEach(function(q) {
           quizData[q.id] = { 
             "question": q.question,
-            "description": q.description
+            "description": q.description,
+            "img": q.img,
+            "caption": q.caption,
+            "photog": q.photographer,
+            "source": q.source
           };
         });
         json.Answers.forEach(function(a, index) {

@@ -2,76 +2,121 @@
   {
     "id": 1,
     "question": "Which of these planes is now flying in Washington’s skies?",
-    "description": "Mitsubishi’s MRJ90 is going through <a href=\"http://www.seattletimes.com/business/boeing-aerospace/mitsubishis-first-mrj-plane-reaches-moses-lake-testing-site/\">flight testing at Moses Lake</a>, with additional work expected to employ 150 in Seattle."
+    "description": "<strong>Mitsubishi’s MRJ90</strong> is going through <a href=\"http://www.seattletimes.com/business/boeing-aerospace/mitsubishis-first-mrj-plane-reaches-moses-lake-testing-site/\">flight testing at Moses Lake</a>, with additional work expected to employ 150 in Seattle.",
+    "img": "Mitsubishi_Aircraft.jpg",
+    "caption": "Mitsubishi unveiled the long awaited Mitsubishi Regional Jet, or MRJ, a fuel-efficient lightweight carbon-fiber composite passenger plane, at the company's plant in Komaki, Japan in 2014.",
+    "photographer": "Kyodo News",
+    "source": "AP Photo"
   },
   {
     "id": 2,
     "question": "Microsoft’s share price climbed past $60, breaking a record set in:",
-    "description": "<a href=\"http://www.seattletimes.com/business/microsoft/microsoft-reports-strong-quarter-stock-pushes-to-all-time-highs-in-after-hours-trading/\">Climbing past $59.56 in October</a> on the strength of strong cloud-computing results meant Microsoft’s share price eclipsed its previous record set in 1999."
+    "description": "<a href=\"http://www.seattletimes.com/business/microsoft/microsoft-reports-strong-quarter-stock-pushes-to-all-time-highs-in-after-hours-trading/\">Climbing past $59.56 in October</a> on the strength of strong cloud-computing results meant Microsoft’s share price eclipsed its previous record <strong>set in 1999</strong>.",
+    "img": "Microsoft_Mobile_Troubles.jpg",
+    "caption": "The Microsoft Corp. logo outside the Microsoft Visitor Center in Redmond, Wash.",
+    "photographer": "Ted S. Warren",
+    "source": "AP Photo"
   },
   {
     "id": 3,
     "question": "Which of these was not a new Seattle-area public company in 2016?",
-    "description": "Approvio does not (yet) exist. <a href=\"http://www.seattletimes.com/business/technology/impinj-stock-soars-20-percent-on-stock-market-debut/\">Impinj</a>, <a href=\"http://www.seattletimes.com/business/technology/everetts-fortive-shapes-strategy-for-successful-companies/\">Fortive</a>, <a href=\"http://www.seattletimes.com/business/technology/seattle-biotech-aptevo-therapeutics-spins-off-from-parent-as-public-company/\">Aptevo</a> and <a href=\"http://www.seattletimes.com/business/technology/stock-of-bellevue-tech-company-apptio-soars-in-trading-debut/\">Apptio</a> were all added to the roster of local public companies in 2016."
+    "description": "<strong>Approvio</strong> does not (yet) exist. <a href=\"http://www.seattletimes.com/business/technology/impinj-stock-soars-20-percent-on-stock-market-debut/\">Impinj</a>, <a href=\"http://www.seattletimes.com/business/technology/everetts-fortive-shapes-strategy-for-successful-companies/\">Fortive</a>, <a href=\"http://www.seattletimes.com/business/technology/seattle-biotech-aptevo-therapeutics-spins-off-from-parent-as-public-company/\">Aptevo</a> and <a href=\"http://www.seattletimes.com/business/technology/stock-of-bellevue-tech-company-apptio-soars-in-trading-debut/\">Apptio</a> were all added to the roster of local public companies in 2016.",
+    "img": "Fortive.jpg",
+    "caption": "At Fortive's FLUKE plant in Mukilteo, assembly operator Thavry Ly wraps a Fluke OptiFiber Pro for shipment.",
+    "photographer": "Greg Gilbert",
+    "source": "The Seattle Times"
   },
   {
     "id": 4,
     "question": "Construction in Seattle reached such a frenzy that the city’s crane count this summer was:",
-    "description": "Seattle’s 58 construction cranes last summer <a href=\"http://www.seattletimes.com/business/real-estate/seattle-skyline-is-tops-in-construction-cranes-more-than-any-other-us-city/\">outnumbered any other U.S. city</a>, putting it 18 higher than 2nd ranked Los Angeles and ahead of New York and San Francisco combined."
+    "description": "<strong>All three are true</strong>: Seattle’s 58 construction cranes last summer <a href=\"http://www.seattletimes.com/business/real-estate/seattle-skyline-is-tops-in-construction-cranes-more-than-any-other-us-city/\">outnumbered any other U.S. city</a>, putting it 18 higher than 2nd ranked Los Angeles and ahead of New York and San Francisco combined.",
+    "img": "construction_seattle_cityscape.JPG",
+    "caption": "Cranes dot buildings along the Seattle skyline.",
+    "photographer": "Ellen M. Banner",
+    "source": "The Seattle Times"
   },
   {
     "id": 5,
     "question": "In the first year after the Port of Seattle and Port of Tacoma combined seaports into the Northwest Seaport Alliance, their share of the West Coast cargo market has:",
-    "description": "The combined seaport operation for Seattle and Tacoma has seen market share increase in its first year."
+    "description": "The combined seaport operation for Seattle and Tacoma has seen <strong>market share increase</strong> in its first year.",
+    "img": "ship_at_port.JPG",
+    "caption": "The CMA CGM Callisto, tied up at Terminal 18 in Seattle. The Callisto is 1,193 feet long and 150 feet wide. It holds more than 40 percent more cargo than most of the container ships that call at Northwest Seaport Alliance terminals.",
+    "photographer": "Ellen M. Banner",
+    "source": "The Seattle Times"
   },
   {
     "id": 6,
     "question": "Which iconic Northwest company marked its 100th anniversary this year?",
-    "description": "Boeing <a href=\"http://www.seattletimes.com/business/boeing-aerospace/a-recap-of-boeing-100-years-of-flight/\">celebrated its 100th anniversary in July</a>."
+    "description": "<strong>Boeing</strong> <a href=\"http://www.seattletimes.com/business/boeing-aerospace/a-recap-of-boeing-100-years-of-flight/\">celebrated its 100th anniversary in July</a>."
   },
   {
     "id": 7,
     "question": "Which of these well-known figures in local business passed away in 2016?",
-    "description": "<a href=\"http://www.seattletimes.com/seattle-news/obituaries/richard-cooley-former-wells-fargo-ceo-dies-at-92/\">Dick Cooley</a>, <a href=\"http://www.seattletimes.com/seattle-news/obituaries/dick-spady-co-founder-and-namesake-of-dicks-drive-in-dies-at-91/\">Dick Spady</a> and <a href=\"http://www.seattletimes.com/business/boeing-aerospace/joe-sutter-led-the-incredibles-who-pioneered-boeings-747-jumbo-jet/\">Joe Sutter</a> all passed away in 2016."
+    "description": "<a href=\"http://www.seattletimes.com/seattle-news/obituaries/richard-cooley-former-wells-fargo-ceo-dies-at-92/\">Dick Cooley</a>, <a href=\"http://www.seattletimes.com/seattle-news/obituaries/dick-spady-co-founder-and-namesake-of-dicks-drive-in-dies-at-91/\">Dick Spady</a> and <a href=\"http://www.seattletimes.com/business/boeing-aerospace/joe-sutter-led-the-incredibles-who-pioneered-boeings-747-jumbo-jet/\">Joe Sutter</a> <strong>all passed away</strong> in 2016.",
+    "img": "cooley.jpg",
+    "photographer": "Betty Udesen",
+    "source": "The Seattle Times"
   },
   {
     "id": 8,
     "question": "The local company that pulled in the largest private funding round from investors\nin 2016 was: ",
-    "description": "OfferUp <a href=\"http://www.seattletimes.com/business/bellevue-startup-offerup-revises-funding-tally-higher-adds-max-levchin-as-investor/\">raised $130 million</a> in 2016, making it the only so-called ‘unicorn’ (valued at more than $1 billion) among local private tech companies. "
+    "description": "<strong>OfferUp</strong> <a href=\"http://www.seattletimes.com/business/bellevue-startup-offerup-revises-funding-tally-higher-adds-max-levchin-as-investor/\">raised $130 million</a> in 2016, making it the only so-called ‘unicorn’ (valued at more than $1 billion) among local private tech companies. ",
+    "img": "OfferUp_cofounder.jpg",
+    "caption": "OfferUp co-founders Arean van Veelen (left) and Nick Huzar."
   },
   {
     "id": 9,
     "question": "Which of these did not happen in 2016?",
-    "description": "None of those happened in 2016, although Costco had been expected to open its first store outside Paris."
+    "description": "<strong>None of those</strong> happened in 2016, although Costco had been expected to open its first store outside Paris."
   },
   {
     "id": 10,
     "question": "Satya Nadella, Microsoft’s 48-year-old CEO, announced this summer he’s writing a mid-career autobiographical book called:",
-    "description": "Satya Nadella’s publisher said his book, due out next year, will be called “<a href=\"http://www.seattletimes.com/business/microsoft/nadella-is-writing-hit-refresh-on-his-life-and-microsofts/\">Hit Refresh<a/>.”"
+    "description": "Satya Nadella’s publisher said his book, due out next year, will be called <strong><a href=\"http://www.seattletimes.com/business/microsoft/nadella-is-writing-hit-refresh-on-his-life-and-microsofts/\">\"Hit Refresh\"<a/></strong>.",
+    "img": "MicrosoftShareholderMtg_3",
+    "caption": "Microsoft Chief Executive Satya Nadella struck an upbeat tone at the company's annual shareholders meeting on Wednesday, November 30th, 2016 at Bellevue's Meydenbauer Center.",
+    "photographer": "Mike Siegel",
+    "source": "The Seattle Times"
   },
   {
     "id": 11,
     "question": "King County’s median price for single-family homes and condos rose how much, year over year, according to the latest Northwest Multiple Listing Service report?",
-    "description": "King County’s median price for both single-family homes and <a href=\"http://www.seattletimes.com/business/real-estate/panicking-seattle-home-buyers-spooked-by-rising-interest-rates-rush-to-buy/\">condos rose 10 percent from November 2015 to November 2016</a>, reaching $550,000. Seattle’s median was $615,000. "
+    "description": "King County’s median price for both single-family homes and <a href=\"http://www.seattletimes.com/business/real-estate/panicking-seattle-home-buyers-spooked-by-rising-interest-rates-rush-to-buy/\">condos rose <strong>10 percent</strong> from November 2015 to November 2016</a>, reaching $550,000. Seattle’s median was $615,000. ",
+    "img": "Home_Prices.JPG",
+    "caption": "A sign promotes a newly-sold home in Seattle. Home prices are falling across most of America's largest cities. Eight cities, including Seattle, sank to their lowest levels since prices peaked in 2006 and 2007.",
+    "photographer": "Elaine Thompson",
+    "source": "AP Photo"
   },
   {
     "id": 12,
     "question": "Which company opened a new headquarters in Seattle that designers nicknamed the “tree fort”?",
-    "description": "Weyerhaeuser relocated from Federal Way <a href=\"http://www.seattletimes.com/business/real-estate/weyerhaeuser-sets-down-in-urban-seattle-after-decades-in-federal-way/\">to a new headquarters in Seattle’s Pioneer Square</a>. "
+    "description": "<strong>Weyerhaeuser</strong> relocated from Federal Way <a href=\"http://www.seattletimes.com/business/real-estate/weyerhaeuser-sets-down-in-urban-seattle-after-decades-in-federal-way/\">to a new headquarters in Seattle’s Pioneer Square</a>. ",
+    "img": "weyerhaeuserhq.jpg",
+    "caption": "The Weyerhaeuser company's new location in Pioneer Square.",
+    "photographer": "Greg Gilbert",
+    "source": "The Seattle Times"
   },
   {
     "id": 13,
     "question": "What didn’t Microsoft introduce in 2016?",
-    "description": "Microsoft, which has cast off virtually all of its acquired Nokia operations, did not debut a new phone in 2016. It did introduce the <a href=\"http://www.seattletimes.com/business/microsoft/microsoft-pushes-boundaries-of-xbox-to-shift-how-we-think-about-gaming/\">Xbox One S</a>, the <a href=\"http://www.seattletimes.com/business/microsoft/microsoft-gets-creative-with-new-desktop-pc/\">Surface Studio all-in-one computer</a>, and a <a ref=\"http://www.seattletimes.com/business/microsoft/microsoft-plans-to-build-data-centers-in-the-uk/\">U.K. cloud-computing center</a>. "
+    "description": "Microsoft, which has cast off virtually all of its acquired Nokia operations, did not <strong>debut a new phone</strong> in 2016. It did introduce the <a href=\"http://www.seattletimes.com/business/microsoft/microsoft-pushes-boundaries-of-xbox-to-shift-how-we-think-about-gaming/\">Xbox One S</a>, the <a href=\"http://www.seattletimes.com/business/microsoft/microsoft-gets-creative-with-new-desktop-pc/\">Surface Studio all-in-one computer</a>, and a <a ref=\"http://www.seattletimes.com/business/microsoft/microsoft-plans-to-build-data-centers-in-the-uk/\">U.K. cloud-computing center</a>. "
   },
   {
     "id": 14,
     "question": "The largest cargo ship ever to dock on the West Coast, the Benjamin Franklin, visited the Elliott Bay waterfront in February. Megaships of that size are now sailing to Seattle from China:",
-    "description": "In the wake of a slowdown in ocean shipping, the <a href=\"http://www.seattletimes.com/business/international-trade/monster-cargo-ship-that-visited-seattle-is-pulled-off-china-us-runs/>CMA CGM cargo line dropped plans</a> for megaships the size of the Benjamin Franklin to call at West Coast ports. The ships are sailing between China and Europe. "
+    "description": "In the wake of a slowdown in ocean shipping, the <a href=\"http://www.seattletimes.com/business/international-trade/monster-cargo-ship-that-visited-seattle-is-pulled-off-china-us-runs/\">CMA CGM cargo line dropped plans</a> for megaships the size of the Benjamin Franklin <strong>to call at West Coast ports</strong>. The ships are sailing between China and Europe. ",
+    "img": "BenFranklinShip.JPG",
+    "caption": "The CMA CGM Benjamin Franklin, the largest cargo ship to visit the United States, arrives along the Seattle waterfront as it heads to Terminal 18 in Seattle. The Benjamin Franklin is more than 1,300 feet long, 177 feet wide and has a draft of 52 feet.",
+    "photographer": "Mike Siegel",
+    "source": "The Seattle Times"
   },
   {
     "id": 15,
     "question": "Concerned that foreign buyers were snapping up homes around Vancouver, B.C., as investments, lawmakers in British Columbia enacted which of these measures?",
-    "description": "Vancouver, B.C., now has a <a href=\"http://www.seattletimes.com/business/scuttled-home-purchases-legal-risks-mount-from-bcs-tax-on-foreign-buyers/\">15 percent home-sale tax on non-Canadian buyers</a> and <a href=\"http://www.seattletimes.com/business/real-estate/vancouver-bc-wields-7450-a-day-fine-in-crackdown-on-empty-homes/\">a 1 percent tax on homes left empty</a>, thanks to local and provincial lawmakers."
+    "description": "Vancouver, B.C., now has a <a href=\"http://www.seattletimes.com/business/scuttled-home-purchases-legal-risks-mount-from-bcs-tax-on-foreign-buyers/\"><strong>15 percent home-sale tax on non-Canadian buyers</strong></a> and <a href=\"http://www.seattletimes.com/business/real-estate/vancouver-bc-wields-7450-a-day-fine-in-crackdown-on-empty-homes/\"><strong>a 1 percent tax on homes left empty</strong></a>, thanks to local and provincial lawmakers.",
+    "img": "REAL_ESTATE_VANCOUVER.jpg",
+    "caption": "Homes stand in front of cranes at a construction site in Vancouver, British Columbia.",
+    "photographer": "Ben Nelms",
+    "source": "Bloomberg"
   }
 ]
