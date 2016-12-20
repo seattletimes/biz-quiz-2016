@@ -29,7 +29,7 @@
   {
     "id": 4,
     "question": "Construction in Seattle reached such a frenzy that the city’s crane count this summer was:",
-    "description": "<strong>All three are true</strong>: Seattle’s 58 construction cranes last summer <a href=\"http://www.seattletimes.com/business/real-estate/seattle-skyline-is-tops-in-construction-cranes-more-than-any-other-us-city/\">outnumbered any other U.S. city</a>, putting it 18 higher than 2nd ranked Los Angeles and ahead of New York and San Francisco combined.",
+    "description": "<strong>All three are true:</strong> Seattle’s 58 construction cranes last summer <a href=\"http://www.seattletimes.com/business/real-estate/seattle-skyline-is-tops-in-construction-cranes-more-than-any-other-us-city/\">outnumbered any other U.S. city</a>, putting it 18 higher than 2nd ranked Los Angeles and ahead of New York and San Francisco combined.",
     "img": "construction_seattle_cityscape.JPG",
     "caption": "Cranes dot buildings along the Seattle skyline.",
     "photographer": "Ellen M. Banner",
@@ -53,16 +53,20 @@
     "id": 7,
     "question": "Which of these well-known figures in local business passed away in 2016?",
     "description": "<a href=\"http://www.seattletimes.com/seattle-news/obituaries/richard-cooley-former-wells-fargo-ceo-dies-at-92/\">Dick Cooley</a>, <a href=\"http://www.seattletimes.com/seattle-news/obituaries/dick-spady-co-founder-and-namesake-of-dicks-drive-in-dies-at-91/\">Dick Spady</a> and <a href=\"http://www.seattletimes.com/business/boeing-aerospace/joe-sutter-led-the-incredibles-who-pioneered-boeings-747-jumbo-jet/\">Joe Sutter</a> <strong>all passed away</strong> in 2016.",
-    "img": "cooley.jpg",
-    "photographer": "Betty Udesen",
-    "source": "The Seattle Times"
+    "img1": "JoeSutter.JPG",
+    "img2": "DickSpady.jpg",
+    "img3": "cooley.jpg",
+    "caption1": "Joe Sutter, chief designer of the Boeing 747. (Courtesy of the Boeing Company)",
+    "caption2": "Dick Spady, founder of Dick's Drive-In. (Ken Lambert/The Seattle Times)",
+    "caption3": "Dick Cooley, chairman and CEO of Seafirst Bank. (Betty Udesen/The Seattle Times)"
   },
   {
     "id": 8,
-    "question": "The local company that pulled in the largest private funding round from investors\nin 2016 was: ",
+    "question": "The local company that pulled in the largest private funding round from investors in 2016 was: ",
     "description": "<strong>OfferUp</strong> <a href=\"http://www.seattletimes.com/business/bellevue-startup-offerup-revises-funding-tally-higher-adds-max-levchin-as-investor/\">raised $130 million</a> in 2016, making it the only so-called ‘unicorn’ (valued at more than $1 billion) among local private tech companies. ",
     "img": "OfferUp_cofounder.jpg",
-    "caption": "OfferUp co-founders Arean van Veelen (left) and Nick Huzar."
+    "caption": "OfferUp co-founders Arean van Veelen (left) and Nick Huzar.",
+    "photographer": "Courtesy of OfferUp"
   },
   {
     "id": 9,
@@ -73,17 +77,17 @@
     "id": 10,
     "question": "Satya Nadella, Microsoft’s 48-year-old CEO, announced this summer he’s writing a mid-career autobiographical book called:",
     "description": "Satya Nadella’s publisher said his book, due out next year, will be called <strong><a href=\"http://www.seattletimes.com/business/microsoft/nadella-is-writing-hit-refresh-on-his-life-and-microsofts/\">\"Hit Refresh\"<a/></strong>.",
-    "img": "MicrosoftShareholderMtg_3",
-    "caption": "Microsoft Chief Executive Satya Nadella struck an upbeat tone at the company's annual shareholders meeting on Wednesday, November 30th, 2016 at Bellevue's Meydenbauer Center.",
+    "img": "MicrosoftShareholderMtg_3.JPG",
+    "caption": "Microsoft Chief Executive Satya Nadella struck an upbeat tone at the company's annual shareholders meeting at Bellevue's Meydenbauer Center.",
     "photographer": "Mike Siegel",
     "source": "The Seattle Times"
   },
   {
     "id": 11,
     "question": "King County’s median price for single-family homes and condos rose how much, year over year, according to the latest Northwest Multiple Listing Service report?",
-    "description": "King County’s median price for both single-family homes and <a href=\"http://www.seattletimes.com/business/real-estate/panicking-seattle-home-buyers-spooked-by-rising-interest-rates-rush-to-buy/\">condos rose <strong>10 percent</strong> from November 2015 to November 2016</a>, reaching $550,000. Seattle’s median was $615,000. ",
+    "description": "King County’s median price for both single-family homes and <a href=\"http://www.seattletimes.com/business/real-estate/panicking-seattle-home-buyers-spooked-by-rising-interest-rates-rush-to-buy/\">condos <strong>rose 10 percent</strong> from November 2015 to November 2016</a>, reaching $550,000. Seattle’s median was $615,000. ",
     "img": "Home_Prices.JPG",
-    "caption": "A sign promotes a newly-sold home in Seattle. Home prices are falling across most of America's largest cities. Eight cities, including Seattle, sank to their lowest levels since prices peaked in 2006 and 2007.",
+    "caption": "A sign promotes a newly-sold home in Seattle. Home prices are falling across most of America's largest cities.",
     "photographer": "Elaine Thompson",
     "source": "AP Photo"
   },
@@ -99,7 +103,7 @@
   {
     "id": 13,
     "question": "What didn’t Microsoft introduce in 2016?",
-    "description": "Microsoft, which has cast off virtually all of its acquired Nokia operations, did not <strong>debut a new phone</strong> in 2016. It did introduce the <a href=\"http://www.seattletimes.com/business/microsoft/microsoft-pushes-boundaries-of-xbox-to-shift-how-we-think-about-gaming/\">Xbox One S</a>, the <a href=\"http://www.seattletimes.com/business/microsoft/microsoft-gets-creative-with-new-desktop-pc/\">Surface Studio all-in-one computer</a>, and a <a ref=\"http://www.seattletimes.com/business/microsoft/microsoft-plans-to-build-data-centers-in-the-uk/\">U.K. cloud-computing center</a>. "
+    "description": "Microsoft, which has cast off virtually all of its acquired Nokia operations, <strong>did not debut a new phone</strong> in 2016. It did introduce the <a href=\"http://www.seattletimes.com/business/microsoft/microsoft-pushes-boundaries-of-xbox-to-shift-how-we-think-about-gaming/\">Xbox One S</a>, the <a href=\"http://www.seattletimes.com/business/microsoft/microsoft-gets-creative-with-new-desktop-pc/\">Surface Studio all-in-one computer</a>, and a <a ref=\"http://www.seattletimes.com/business/microsoft/microsoft-plans-to-build-data-centers-in-the-uk/\">U.K. cloud-computing center</a>. "
   },
   {
     "id": 14,
@@ -113,7 +117,7 @@
   {
     "id": 15,
     "question": "Concerned that foreign buyers were snapping up homes around Vancouver, B.C., as investments, lawmakers in British Columbia enacted which of these measures?",
-    "description": "Vancouver, B.C., now has a <a href=\"http://www.seattletimes.com/business/scuttled-home-purchases-legal-risks-mount-from-bcs-tax-on-foreign-buyers/\"><strong>15 percent home-sale tax on non-Canadian buyers</strong></a> and <a href=\"http://www.seattletimes.com/business/real-estate/vancouver-bc-wields-7450-a-day-fine-in-crackdown-on-empty-homes/\"><strong>a 1 percent tax on homes left empty</strong></a>, thanks to local and provincial lawmakers.",
+    "description": "Vancouver, B.C., now has a <a href=\"http://www.seattletimes.com/business/scuttled-home-purchases-legal-risks-mount-from-bcs-tax-on-foreign-buyers/\"><strong>15 percent home-sale tax on non-Canadian buyers</a> and <a href=\"http://www.seattletimes.com/business/real-estate/vancouver-bc-wields-7450-a-day-fine-in-crackdown-on-empty-homes/\">a 1 percent tax on homes left empty</strong></a>, thanks to local and provincial lawmakers.",
     "img": "REAL_ESTATE_VANCOUVER.jpg",
     "caption": "Homes stand in front of cranes at a construction site in Vancouver, British Columbia.",
     "photographer": "Ben Nelms",

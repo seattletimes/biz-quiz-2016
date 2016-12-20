@@ -10,8 +10,19 @@
         <div class="description">{{{description}}}</div>
         {{#img}}
           <img src="./assets/{{img}}">
-          <div class="caption">{{caption}} ({{photog}}/{{source}})</div>
+          <div class="caption">{{caption}} ({{photog}}{{#source}}/{{source}}{{/source}})</div>
         {{/img}}
+
+        {{#img1}}
+          <div class="triad">
+            <img src="./assets/{{img3}}">
+            <div class="caption">{{caption3}}</div>
+            <img src="./assets/{{img2}}">
+            <div class="caption">{{caption2}}</div>
+            <img src="./assets/{{img1}}">
+            <div class="caption">{{caption1}}</div>
+          </div>
+        {{/img1}}
       </div>
     </div>
 
