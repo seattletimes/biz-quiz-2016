@@ -51,50 +51,50 @@
     "answer": "Apptio"
   },
   {
-    "id": 4,
+    "id": 6,
     "answer": "Highest in the nation"
   },
   {
-    "id": 4,
+    "id": 6,
     "answer": "Nearly half again as high as next-ranked Los Angeles"
   },
   {
-    "id": 4,
+    "id": 6,
     "answer": "More than New York and San Francisco combined"
   },
   {
-    "id": 4,
+    "id": 6,
     "answer": "All three",
     "correct": "x"
   },
   {
-    "id": 5,
+    "id": 13,
     "answer": "Increased",
     "correct": "x"
   },
   {
-    "id": 5,
+    "id": 13,
     "answer": "Declined"
   },
   {
-    "id": 5,
+    "id": 13,
     "answer": "Remained flat"
   },
   {
-    "id": 6,
+    "id": 5,
     "answer": "Archie McPhee’s"
   },
   {
-    "id": 6,
+    "id": 5,
     "answer": "Boeing",
     "correct": "x"
   },
   {
-    "id": 6,
+    "id": 5,
     "answer": "Dick’s Drive-In"
   },
   {
-    "id": 6,
+    "id": 5,
     "answer": "Nordstrom"
   },
   {
@@ -170,20 +170,20 @@
     "answer": "“Soft around the Middle”"
   },
   {
-    "id": 11,
+    "id": 15,
     "answer": "8 percent"
   },
   {
-    "id": 11,
+    "id": 15,
     "answer": "10 percent",
     "correct": "x"
   },
   {
-    "id": 11,
+    "id": 15,
     "answer": "12 percent"
   },
   {
-    "id": 11,
+    "id": 15,
     "answer": "15 percent"
   },
   {
@@ -204,20 +204,20 @@
     "correct": "x"
   },
   {
-    "id": 13,
+    "id": 4,
     "answer": "An all-in-one-computer with a touchscreen monitor"
   },
   {
-    "id": 13,
+    "id": 4,
     "answer": "A new Xbox model"
   },
   {
-    "id": 13,
+    "id": 4,
     "answer": "A new Lumia phone",
     "correct": "x"
   },
   {
-    "id": 13,
+    "id": 4,
     "answer": "A cloud-computing center in the U.K."
   },
   {
@@ -238,27 +238,27 @@
     "correct": "x"
   },
   {
-    "id": 15,
+    "id": 11,
     "answer": "Residency period before non-citizen can buy a home"
   },
   {
-    "id": 15,
+    "id": 11,
     "answer": "A 15 percent home-sale tax on non-Canadian buyers"
   },
   {
-    "id": 15,
+    "id": 11,
     "answer": "A 1 percent tax on homes left empty"
   },
   {
-    "id": 15,
+    "id": 11,
     "answer": "Language test for anyone buying a home"
   },
   {
-    "id": 15,
+    "id": 11,
     "answer": "A and D"
   },
   {
-    "id": 15,
+    "id": 11,
     "answer": "B and C",
     "correct": "x"
   }

@@ -11,7 +11,7 @@
   {
     "id": 2,
     "question": "Microsoft’s share price climbed past $60, breaking a record set in:",
-    "description": "<a href=\"http://www.seattletimes.com/business/microsoft/microsoft-reports-strong-quarter-stock-pushes-to-all-time-highs-in-after-hours-trading/\">Climbing past $59.56 in October</a> on the strength of strong cloud-computing results meant Microsoft’s share price eclipsed its previous record <strong>set in 1999</strong>.",
+    "description": "<a href=\"http://www.seattletimes.com/business/microsoft/microsoft-reports-strong-quarter-stock-pushes-to-all-time-highs-in-after-hours-trading/\">Climbing past $59.56 in October</a> on the strength of strong cloud-computing results meant Microsoft’s share price eclipsed its previous record <strong>set in 1999.</strong>",
     "img": "Microsoft_Mobile_Troubles.jpg",
     "caption": "The Microsoft Corp. logo outside the Microsoft Visitor Center in Redmond, Wash.",
     "photographer": "Ted S. Warren",
@@ -28,26 +28,30 @@
   },
   {
     "id": 4,
+    "question": "What didn’t Microsoft introduce in 2016?",
+    "description": "Microsoft, which has cast off virtually all of its acquired Nokia operations, <strong>did not debut a new phone</strong> in 2016. It did introduce the <a href=\"http://www.seattletimes.com/business/microsoft/microsoft-pushes-boundaries-of-xbox-to-shift-how-we-think-about-gaming/\">Xbox One S</a>, the <a href=\"http://www.seattletimes.com/business/microsoft/microsoft-gets-creative-with-new-desktop-pc/\">Surface Studio all-in-one computer</a>, and a <a ref=\"http://www.seattletimes.com/business/microsoft/microsoft-plans-to-build-data-centers-in-the-uk/\">U.K. cloud-computing center</a>.",
+    "img": "Marc_Whitten.jpeg",
+    "caption": "Marc Whitten, Microsoft Corp.'s chief production officer of interactive entertainment, talks about the controller of the next-generation Xbox One entertainment and gaming console system in 2013.",
+    "photographer": "Ted S. Warren",
+    "source": "AP Photo"
+  },
+  {
+    "id": 5,
+    "question": "Which iconic Northwest company marked its 100th anniversary this year?",
+    "description": "<strong>Boeing</strong> celebrated its <a href=\"http://www.seattletimes.com/business/boeing-aerospace/a-recap-of-boeing-100-years-of-flight/\">100th anniversary</a> in July.",
+    "img": "boeing.jpeg",
+    "caption": "Alaska Airlines and about 700 people helped kick off Boeing's 100th birthday on Thursday, June 30th at the Museum of Flight. Boeing's official birthday is July 15th.",
+    "photographer": "Mike Siegel",
+    "source": "The Seattle Times"
+  },
+  {
+    "id": 6,
     "question": "Construction in Seattle reached such a frenzy that the city’s crane count this summer was:",
     "description": "<strong>All three are true:</strong> Seattle’s 58 construction cranes last summer <a href=\"http://www.seattletimes.com/business/real-estate/seattle-skyline-is-tops-in-construction-cranes-more-than-any-other-us-city/\">outnumbered any other U.S. city</a>, putting it 18 higher than 2nd ranked Los Angeles and ahead of New York and San Francisco combined.",
     "img": "construction_seattle_cityscape.JPG",
     "caption": "Cranes dot buildings along the Seattle skyline.",
     "photographer": "Ellen M. Banner",
     "source": "The Seattle Times"
-  },
-  {
-    "id": 5,
-    "question": "In the first year after the Port of Seattle and Port of Tacoma combined seaports into the Northwest Seaport Alliance, their share of the West Coast cargo market has:",
-    "description": "The combined seaport operation for Seattle and Tacoma has seen <strong>market share increase</strong> in its first year.",
-    "img": "ship_at_port.JPG",
-    "caption": "The CMA CGM Callisto, tied up at Terminal 18 in Seattle. The Callisto holds more than 40 percent more cargo than most of the container ships that call at Northwest Seaport Alliance terminals.",
-    "photographer": "Ellen M. Banner",
-    "source": "The Seattle Times"
-  },
-  {
-    "id": 6,
-    "question": "Which iconic Northwest company marked its 100th anniversary this year?",
-    "description": "<strong>Boeing</strong> <a href=\"http://www.seattletimes.com/business/boeing-aerospace/a-recap-of-boeing-100-years-of-flight/\">celebrated its 100th anniversary in July</a>."
   },
   {
     "id": 7,
@@ -71,12 +75,16 @@
   {
     "id": 9,
     "question": "Which of these did not happen in 2016?",
-    "description": "<strong>None of those</strong> happened in 2016, although Costco had been expected to open its first store outside Paris."
+    "description": "<strong>None of those</strong> happened in 2016, although Costco had been expected to open its first store outside Paris.",
+    "img": "154067.jpeg",
+    "caption": "Shoppers peruse the huge aisles at Costco in Issaquah.",
+    "photographer": "Bettina Hansen",
+    "source": "The Seattle Times"
   },
   {
     "id": 10,
     "question": "Satya Nadella, Microsoft’s 48-year-old CEO, announced this summer he’s writing a mid-career autobiographical book called:",
-    "description": "Satya Nadella’s publisher said his book, due out next year, will be called <strong><a href=\"http://www.seattletimes.com/business/microsoft/nadella-is-writing-hit-refresh-on-his-life-and-microsofts/\">\"Hit Refresh\"<a/></strong>.",
+    "description": "Satya Nadella’s publisher said his book, due out next year, will be called <strong><a href=\"http://www.seattletimes.com/business/microsoft/nadella-is-writing-hit-refresh-on-his-life-and-microsofts/\">\"Hit Refresh\".<a/></strong>",
     "img": "MicrosoftShareholderMtg_3.JPG",
     "caption": "Microsoft Chief Executive Satya Nadella struck an upbeat tone at the company's annual shareholders meeting at Bellevue's Meydenbauer Center.",
     "photographer": "Mike Siegel",
@@ -84,12 +92,12 @@
   },
   {
     "id": 11,
-    "question": "King County’s median price for single-family homes and condos rose how much, year over year, according to the latest Northwest Multiple Listing Service report?",
-    "description": "King County’s median price for both single-family homes and <a href=\"http://www.seattletimes.com/business/real-estate/panicking-seattle-home-buyers-spooked-by-rising-interest-rates-rush-to-buy/\">condos <strong>rose 10 percent</strong> from November 2015 to November 2016</a>, reaching $550,000. Seattle’s median was $615,000. ",
-    "img": "Home_Prices.JPG",
-    "caption": "A sign promotes a newly-sold home in Seattle. Home prices are falling across most of America's largest cities.",
-    "photographer": "Elaine Thompson",
-    "source": "AP Photo"
+    "question": "Concerned that foreign buyers were snapping up homes around Vancouver, B.C., as investments, lawmakers in British Columbia enacted which of these measures?",
+    "description": "Vancouver, B.C., now has a <a href=\"http://www.seattletimes.com/business/scuttled-home-purchases-legal-risks-mount-from-bcs-tax-on-foreign-buyers/\"><strong>15 percent home-sale tax on non-Canadian buyers</a></strong> and <strong><a href=\"http://www.seattletimes.com/business/real-estate/vancouver-bc-wields-7450-a-day-fine-in-crackdown-on-empty-homes/\">a 1 percent tax on homes left empty</strong></a>, thanks to local and provincial lawmakers.",
+    "img": "REAL_ESTATE_VANCOUVER.jpg",
+    "caption": "Homes stand in front of cranes at a construction site in Vancouver, British Columbia.",
+    "photographer": "Ben Nelms",
+    "source": "Bloomberg"
   },
   {
     "id": 12,
@@ -102,8 +110,12 @@
   },
   {
     "id": 13,
-    "question": "What didn’t Microsoft introduce in 2016?",
-    "description": "Microsoft, which has cast off virtually all of its acquired Nokia operations, <strong>did not debut a new phone</strong> in 2016. It did introduce the <a href=\"http://www.seattletimes.com/business/microsoft/microsoft-pushes-boundaries-of-xbox-to-shift-how-we-think-about-gaming/\">Xbox One S</a>, the <a href=\"http://www.seattletimes.com/business/microsoft/microsoft-gets-creative-with-new-desktop-pc/\">Surface Studio all-in-one computer</a>, and a <a ref=\"http://www.seattletimes.com/business/microsoft/microsoft-plans-to-build-data-centers-in-the-uk/\">U.K. cloud-computing center</a>. "
+    "question": "In the first year after the Port of Seattle and Port of Tacoma combined seaports into the Northwest Seaport Alliance, their share of the West Coast cargo market has:",
+    "description": "The combined seaport operation for Seattle and Tacoma has seen <strong>market share increase</strong> in its first year.",
+    "img": "ship_at_port.JPG",
+    "caption": "The CMA CGM Callisto, tied up at Terminal 18 in Seattle. The Callisto holds more than 40 percent more cargo than most of the container ships that call at Northwest Seaport Alliance terminals.",
+    "photographer": "Ellen M. Banner",
+    "source": "The Seattle Times"
   },
   {
     "id": 14,
@@ -116,11 +128,11 @@
   },
   {
     "id": 15,
-    "question": "Concerned that foreign buyers were snapping up homes around Vancouver, B.C., as investments, lawmakers in British Columbia enacted which of these measures?",
-    "description": "Vancouver, B.C., now has a <a href=\"http://www.seattletimes.com/business/scuttled-home-purchases-legal-risks-mount-from-bcs-tax-on-foreign-buyers/\"><strong>15 percent home-sale tax on non-Canadian buyers</a> and <a href=\"http://www.seattletimes.com/business/real-estate/vancouver-bc-wields-7450-a-day-fine-in-crackdown-on-empty-homes/\">a 1 percent tax on homes left empty</strong></a>, thanks to local and provincial lawmakers.",
-    "img": "REAL_ESTATE_VANCOUVER.jpg",
-    "caption": "Homes stand in front of cranes at a construction site in Vancouver, British Columbia.",
-    "photographer": "Ben Nelms",
-    "source": "Bloomberg"
+    "question": "King County’s median price for single-family homes and condos rose how much, year over year, according to the latest Northwest Multiple Listing Service report?",
+    "description": "King County’s median price for both single-family homes and condos <a href=\"http://www.seattletimes.com/business/real-estate/panicking-seattle-home-buyers-spooked-by-rising-interest-rates-rush-to-buy/\"><strong>rose 10 percent</strong></a> from November 2015 to November 2016, reaching $550,000. Seattle’s median was $615,000. ",
+    "img": "Home_Prices.JPG",
+    "caption": "A sign promotes a newly-sold home in Seattle. Home prices are falling across most of America's largest cities.",
+    "photographer": "Elaine Thompson",
+    "source": "AP Photo"
   }
 ]
